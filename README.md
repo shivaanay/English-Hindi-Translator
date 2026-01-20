@@ -1,7 +1,7 @@
 # English-Hindi-Translator
 English to Hindi Neural Machine Translation using Seq2Seq + Attention in PyTorch (TXT + PDF support)
 
-# English to Hindi Language Translation System
+## English to Hindi Language Translation System
 
 This project implements an English → Hindi Neural Machine Translation system using a Seq2Seq (LSTM Encoder–Decoder) model with Attention in PyTorch.
 
