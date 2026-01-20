@@ -1,0 +1,6 @@
+torch
+pandas
+numpy
+pymupdf
+sacrebleu
+nltk
